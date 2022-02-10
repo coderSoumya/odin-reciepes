@@ -1,0 +1,11 @@
+body {
+  background-color: lightgreen;
+  margin: 10px;
+}
+a {
+  color: palevioletred;
+  font-family: cursive;
+}
+h1 {
+  text-align: justify;
+}
